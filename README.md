@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=dhanunagarajanp&label=Profile%20views&color=0e75b6&style=plastic" alt="dhanunagarajan" />
   <a href="https://wakatime.com/@bb0f9b8d-8a41-4d25-b432-3871bdeddcd2"><img src="https://wakatime.com/badge/user/bb0f9b8d-8a41-4d25-b432-3871bdeddcd2.svg" alt="Total time coded since Jul 14 2022" /></a>
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/thetyrantteddy?color=%231DA1F2&logo=Twitter&style=plastic">
-  
 </p>
 
 - 💼 Employment Record: [**Cognitive Mobile Technologies**](http://cognitivemobile.net/) ➡️ [**Cognizant 💻**](https://www.cognizant.com/)
@@ -20,20 +19,7 @@
 
 - 😏 Fun fact **I have over 300 Games on Steam**
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img alt="Dhanu's GitHub Stats" src="https://github-readme-stats-ochre-two.vercel.app/api?username=dhanunagarajan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<img alt="Dhanu's GitHub Stats" src="https://github-readme-stats-ochre-two.vercel.app/api?username=dhanunagarajan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
