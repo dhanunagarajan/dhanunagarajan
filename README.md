@@ -3,14 +3,14 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=dhanunagarajanp&label=Profile%20views&color=0e75b6&style=plastic" alt="dhanunagarajan" />
-  <img src="https://wakatime.com/badge/user/bb0f9b8d-8a41-4d25-b432-3871bdeddcd2.svg" />
+  <a href="https://wakatime.com/@bb0f9b8d-8a41-4d25-b432-3871bdeddcd2"><img src="https://wakatime.com/badge/user/bb0f9b8d-8a41-4d25-b432-3871bdeddcd2.svg" alt="Total time coded since Jul 14 2022" /></a>
 </p>
 
 - 💼 Employment Record: [**Cognitive Mobile Technologies**](http://cognitivemobile.net/) ➡️ [**Cognizant 💻**](https://www.cognizant.com/)
 
 - 📚 I’m currently learning **MERN, RESTful, SpringBoot, and Grinding DSA on [InterviewBit](https://www.interviewbit.com/profile/), [Leetcode](https://leetcode.com/dhanunagarajan/) and [CodeChef](https://www.codechef.com/users/dhanunagarajan)**
 
-- 💬 Enthusiastic about **Gaming, JavaScript, Keras, Tensorflow, and DSA**
+- 💬 Ask me about **Gaming, JavaScript, MERN, Tensorflow, and DSA**
 
 - 📫 How to reach me [**Send Mail Here**](mailto:dhanunagarajan@hotmail.com) **(dhanunagarajan@hotmail.com)**
 
