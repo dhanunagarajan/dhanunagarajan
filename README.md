@@ -18,11 +18,11 @@
 
 - 😏 Fun fact **I have over 300 Games on Steam**
 
-  [![Dhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanunagarajan&count_private=true&show_icons=true&theme=nightowl)](https://github.com/dhanunagarajan/github-readme-stats)
+  [![Dhanu's GitHub stats](https://github-readme-stats-ochre-two.vercel.app/api?username=dhanunagarajan&count_private=true&show_icons=true&theme=nightowl)](https://github.com/dhanunagarajan/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanunagarajan)](https://github.com/dhanunagarajan/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-ochre-two.vercel.app/api/top-langs/?username=dhanunagarajan)](https://github.com/dhanunagarajan/github-readme-stats)
 
-  [![Dhanu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhanunagarajan)](https://github.com/dhanunagarajan/github-readme-stats)
+  [![Dhanu's wakatime stats](https://github-readme-stats-ochre-two.vercel.app/api/wakatime?username=dhanunagarajan)](https://github.com/dhanunagarajan/github-readme-stats)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
