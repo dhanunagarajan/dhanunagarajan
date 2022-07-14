@@ -8,7 +8,7 @@
 
 - 💼 Employment Record: [**Cognitive Mobile Technologies**](http://cognitivemobile.net/) ➡️ [**Cognizant 💻**](https://www.cognizant.com/)
 
-- 📚 I’m currently learning **MERN, RESTful, SpringBoot, and Grinding DSA on [Leetcode](https://leetcode.com/dhanunagarajan/) and [CodeChef](https://www.codechef.com/users/dhanunagarajan)**
+- 📚 I’m currently learning **MERN, RESTful, SpringBoot, and Grinding DSA on [Leetcode](https://leetcode.com/dhanunagarajan/), [HackerRank](https://www.hackerrank.com/DhanuNagarajanP) and [CodeChef](https://www.codechef.com/users/dhanunagarajan)**
 
 - 💬 Ask me about **Gaming, JavaScript, MERN, Tensorflow, and DSA**
 
